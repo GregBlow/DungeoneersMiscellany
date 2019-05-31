@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T10:26:39+01:00
+
+====== Atmospheric devices ======
+Created Friday 31 May 2019
+
+Software sound mixer: a means of mixing different audio sources on a computer at different volumes, for the purposes of combining music/ambient noise, or subliminal atmosphere
+
