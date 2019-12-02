@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-08T14:21:47+01:00
+
+====== Subversion ======
+Created Monday 08 July 2019
+
+Subversion of expectation, e.g. revelation of an NPCs motivations being diamterically opposed to what is presumed or initially indicated.
+
+Pros: Helps avoid predictable plots and maintain a sense of being part of a world.
+
+Cons: If taken to excess can drift into contrariness and thus arbitrariness or predictability. 
